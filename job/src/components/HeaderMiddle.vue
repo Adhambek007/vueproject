@@ -2,7 +2,7 @@
   <header class="header p-8">
     <div class=" max-w-[1200px] mx-auto">
       <div class="flex  items-center justify-between ">
-        <div class="flex   items-center gap-[33px]">
+        <div class="flex   items-center gap-[158px]">
           <img :src="fresh" alt="Freshnesecom">
           <div class="flex items-center border rounded-[12px] overflow-hidden w-full max-w-xl shadow-sm">
             <!-- Category Dropdown -->
